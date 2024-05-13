@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9ElCEoLuCccb/qG0wkNiwspWLUKG+2elwMFA5GhSSaxdpFQ/2Gej6bYkZmFjDmDv1nCBr7nYx5L5P9yrROyNA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\nazar\\Desktop\\APBD33333\\APBD3\\assignment_three\\LegacyApp\\LegacyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
